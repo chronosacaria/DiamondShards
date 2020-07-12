@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "diamondshards:diamond_from_shards"
+    ]
+  },
+  "criteria": {
+    "has_at_least_9_diamond_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "diamondshards:diamond_shard",
+            "count": {
+              "min": 9
+            }
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "diamondshards:diamond_from_shards"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_at_least_9_diamond_shard",
+      "has_the_recipe"
+    ]
+  ]
+}
+
