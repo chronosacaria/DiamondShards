@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "id": "diamondshards",
-  "version": "0.1",
+  "version": "1.0",
 
   "name": "Diamond Shards",
-  "description": "Allows you to break down diamonds for economic use.",
+  "description": "A simple mod that allows diamonds to be broken down into 9 shards. Best used for diamond-based economies.",
   "authors": [
     "Chronosacaria"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/chronosacaria/DiamondShards"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "LGPLv3",
+  "icon": "assets/diamondshards/icon.png",
 
   "environment": "*",
   "entrypoints": {
