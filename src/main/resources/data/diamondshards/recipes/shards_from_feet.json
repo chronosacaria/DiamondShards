@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:diamond_boots"
+  },
+  "result": "diamondshards:diamond_shard",
+  "experience": 0.1,
+  "cookingtime": 400
+}
