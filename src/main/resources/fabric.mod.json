@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "diamondshards",
-  "version": "1.0.2",
+  "version": "${version}",
 
   "name": "Diamond Shards",
   "description": "A simple mod that allows diamonds to be broken down into 9 shards. Best used for diamond-based economies.",
@@ -26,7 +26,7 @@
   "depends": {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.17.x"
   },
   "suggests": {
     "flamingo": "*"
