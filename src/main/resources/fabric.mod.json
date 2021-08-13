@@ -9,8 +9,9 @@
     "Chronosacaria"
   ],
   "contact": {
-    "homepage": "",
-    "sources": "https://github.com/chronosacaria/DiamondShards"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamond-shards-fabric",
+    "sources": "https://github.com/chronosacaria/DiamondShards",
+    "issues": "https://github.com/chronosacaria/DiamondShards/issues"
   },
 
   "license": "LGPLv3",
